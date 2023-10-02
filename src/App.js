@@ -7,7 +7,7 @@ import Carte4 from "./components/Card4";
 
 function App() {
   return (
-    <>
+    <div className="back">
       <header>
         <h1 className="tete"> Football Players </h1>
       </header>
@@ -17,7 +17,7 @@ function App() {
         <Carte3 />
         <Carte4 />
       </div>
-    </>
+    </div>
   );
 }
 
