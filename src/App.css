@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ThevJQmukyOsUj1HXozifvuY15KFfQ1EQQ&usqp=CAU");
+  background-size: 100%;
 }
 
 .App-logo {
@@ -35,4 +37,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+.photo{
+  height: 400px;
+  width: 287px;
+}
+.titre{
+  color: red;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
